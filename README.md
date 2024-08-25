@@ -3,6 +3,7 @@ An open (via Pulseq) 3D gradient echo sequence supporting multiple Cartesian tra
 ====================================================================
 See attached GIF images that demonstrate an MRI slice of a brain acquired with different trajectories
 % 
+
 % General
 
 % -------
