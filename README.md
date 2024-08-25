@@ -14,8 +14,7 @@ code. Most should be self explanatory (together with the comments).
 
 ### Sample results
 
-Here is a GIF animation showing the different resulting images when 
-acquiring volunteer MRI images with different ordering schemes. 
+Here is a GIF animation showing a representative slice from brain MRI acquisitions, comparing different ordering schemes. 
 
 ![Comaprison of 4 different orderings - no zoom](https://github.com/RitaSchmidt/Shuffle3DGRE/blob/main/Sl24_ord_spiral_shuf_spiralandshuf_NoZoom-Annotated.gif?raw=true)
 
