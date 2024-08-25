@@ -2,6 +2,7 @@
 An open (via Pulseq) 3D gradient echo sequence supporting multiple Cartesian trajectory options for reducing physiological fluctuation artifacts 
 ====================================================================
 See attached GIF images that demonstrate an MRI slice of a brain acquired with different trajectories
+
 % 
 
 % General
